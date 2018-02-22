@@ -4,9 +4,8 @@ A GTK client for the irrenhaus tracker
 
 ## Precompiled versions
 
-- Linux (amd64):
-- Windows (amd64):
-- Windows (x86):
+- Linux: [irrenhaus-gui-linux-amd64](https://github.com/fuchsi/irrenhaus-gui/releases/download/v0.1.0/irrenhaus-gui-linux-amd64)
+- Windows: *comming soon™*
 
 ## Dependencies / System Requirements
 
